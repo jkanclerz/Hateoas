@@ -27,6 +27,7 @@ env:
   - SYMFONY_VERSION=2.8.*
   - SYMFONY_VERSION=3.0.*
   - SYMFONY_VERSION=3.2.*
+  - SYMFONY_VERSION=4.0.*
 
 before_install:
   - composer self-update
